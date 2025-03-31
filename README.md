@@ -1,2 +1,2 @@
 # SeleniumWebDriver
-This project is basically for automation script
+This project is basically for automation test script
